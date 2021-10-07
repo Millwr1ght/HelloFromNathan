@@ -1,8 +1,8 @@
 # HelloFromNathan | CS246
 
-From the assignment description:
+## From the [assignment description](https://github.com/byui-cs/CS246/blob/master/week-04/prove.html):
 
-"In this assignment, you will create a simple Java program and put it into GitHub. You will then ask one of your team members to make a change to your project. You will also make a change to another team member's project."
+> "In this assignment, you will create a simple Java program and put it into GitHub. You will then ask one of your team members to make a change to your project. You will also make a change to another team member's project."
 
   1. Create a project in IntelliJ called HelloFrom<Name> (if you first name was Bob, then this would be HelloFromBob).
 
