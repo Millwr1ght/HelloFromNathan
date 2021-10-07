@@ -6,3 +6,4 @@ I am another dev, and I am making edits to the sample text file!
 
 this is a line that michael can't see yet because we haven't pushed the change yet!
 a secret eighth line! :)
+I made some changes to make Nate's file to make his life harder!!!
