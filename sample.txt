@@ -3,3 +3,6 @@ This is a text file!
 A sample text file!
 
 I am another dev, and I am making edits to the sample text file!
+
+this is a line that michael can't see yet because we haven't pushed the change yet!
+a secret eighth line! :)
